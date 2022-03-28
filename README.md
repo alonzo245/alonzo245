@@ -4,6 +4,13 @@
 - [MyLinkedin Profile 👨‍💻 👩‍💻](https://www.facebook.com/groups/coderzcommunity/)
 - [List of tutorials Ive created 📽](https://github.com/coderz-dev/coderz-news/blob/main/README.md)
 
+
+<div align="right" dir="rtl">
+##### Created by me:
+- [Video Tutorials  📽](https://www.youtube.com/channel/UCDoCEPVz8DewTIxeRDLgyyQ/videos)
+- [Web Development Podcast 🎙](https://open.spotify.com/episode/2CfOtCEvqbEibWl3E07NuN)
+</div>
+
 **SUMMARY**
 - Incharge of the R&D roadmap and technical direction, guidance and quality.
 - Leading and managing infrastructure of technological plans, strategies, methodologies and budgeting.

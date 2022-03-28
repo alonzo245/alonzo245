@@ -4,7 +4,7 @@
 - [MyLinkedin Profile 👨‍💻 👩‍💻](https://www.facebook.com/groups/coderzcommunity/)
 - [List of tutorials Ive created 📽](https://github.com/coderz-dev/coderz-news/blob/main/README.md)
 
-##### Created by me:
+**Created by me**
 - [Video Tutorials  📽](https://www.youtube.com/channel/UCDoCEPVz8DewTIxeRDLgyyQ/videos)
 - [Web Development Podcast 🎙](https://open.spotify.com/episode/2CfOtCEvqbEibWl3E07NuN)
 

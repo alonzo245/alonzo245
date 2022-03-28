@@ -2,11 +2,11 @@
 <b> Coding JavaScript and NodeJs for more than 10 years. </b>
 
 - [MyLinkedin Profile 👨‍💻 👩‍💻](https://www.facebook.com/groups/coderzcommunity/)
-- [List of tutorials Ive created 📽](https://github.com/coderz-dev/coderz-news/blob/main/README.md)
+- [List of tutorials I've created working at Coderz 📽](https://github.com/coderz-dev/coderz-news/blob/main/README.md)
 
 **Created by me**
-- [Video Tutorials  📽](https://www.youtube.com/channel/UCDoCEPVz8DewTIxeRDLgyyQ/videos)
-- [Web Development Podcast 🎙](https://open.spotify.com/episode/2CfOtCEvqbEibWl3E07NuN)
+- [Video Tutorials I've created working at Coderz 📽](https://www.youtube.com/channel/UCDoCEPVz8DewTIxeRDLgyyQ/videos)
+- [Web Development Podcast I've created working at Coderz 🎙](https://open.spotify.com/episode/2CfOtCEvqbEibWl3E07NuN)
 
 **SUMMARY**
 - Incharge of the R&D roadmap and technical direction, guidance and quality.

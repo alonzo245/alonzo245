@@ -1,7 +1,7 @@
 #### R&D Director and Full Stack Developer over the last 15 years.
 ###### Coding JavaScript and NodeJs for more than 10 years.
 
-[MyLinkedin Profile 👨‍💻 👩‍💻](https://www.facebook.com/groups/coderzcommunity/)
+[MyLinkedin Profile 👨‍💻 👩‍💻](https://www.facebook.com/groups/coderzcommunity/)__
 [List of tutorials Ive created 📽](https://github.com/coderz-dev/coderz-news/blob/main/README.md)
 
 **SUMMARY**

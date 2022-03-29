@@ -3,9 +3,9 @@
 - [Linkedin Profile 👨‍💻 👩‍💻](https://www.facebook.com/groups/coderzcommunity/)
 - [List of tutorials I've created working at Coderz 📽](https://github.com/coderz-dev/coderz-news/blob/main/README.md)
 
-**Created by me**
-- [Video Tutorials I've created working at Coderz 📽](https://www.youtube.com/channel/UCDoCEPVz8DewTIxeRDLgyyQ/videos)
-- [Web Development Podcast I've created working at Coderz 🎙](https://open.spotify.com/episode/2CfOtCEvqbEibWl3E07NuN)
+**Created by me for Coderz Community**
+- [Video Tutorials 📽](https://www.youtube.com/channel/UCDoCEPVz8DewTIxeRDLgyyQ/videos)
+- [Web Development Podcast 🎙](https://open.spotify.com/episode/2CfOtCEvqbEibWl3E07NuN)
 
 **SUMMARY**
 - Incharge of the R&D roadmap and technical direction, guidance and quality.

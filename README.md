@@ -1,5 +1,6 @@
 #### R&D Director and Full Stack Developer. 
 
+- [My Portfolio & Bio 💻](https://alonzo245.github.io/alon-alush/)
 - [Linkedin Profile 👨‍💻 👩‍💻](https://www.facebook.com/groups/coderzcommunity/)
 - [List of tutorials I've created working at Coderz 📽](https://github.com/coderz-dev/coderz-news/blob/main/README.md)
 

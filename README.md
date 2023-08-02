@@ -9,7 +9,7 @@
 - [Video Tutorials 📽](https://www.youtube.com/channel/UCDoCEPVz8DewTIxeRDLgyyQ/videos)
 - [Web Development Podcast 🎙](https://open.spotify.com/episode/2CfOtCEvqbEibWl3E07NuN)
 
-**SUMMARY**
+**EXPERIENCE**
 
 - Incharge of the R&D roadmap and technical direction, guidance and quality.
 - Leading and managing infrastructure of technological plans, strategies, methodologies and budgeting.
